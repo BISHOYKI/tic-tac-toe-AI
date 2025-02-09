@@ -1,1 +1,2 @@
-# tic-tac-toe-AI he are updata for project xo
+# tic-tac-toe-AI he are updata for xo
+project
